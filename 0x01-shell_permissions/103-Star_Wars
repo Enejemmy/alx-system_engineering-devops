@@ -1,1 +1,2 @@
-#!/bin/bash grep -i -v "bash" /etc/passwd
+#!/bin/bash
+telnet towel.blinkenlights.nl
